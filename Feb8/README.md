@@ -1,7 +1,7 @@
 Code:
 
 
-'''
+```
 function setup() {
   createCanvas(400, 500);
   frameRate(10)
@@ -45,5 +45,5 @@ function draw() {
   
   print(mouseX, mouseY)
 }
-'''
+```
 
