@@ -54,3 +54,5 @@ function draw() {
 }
 ```
 
+![](picture.png)
+
