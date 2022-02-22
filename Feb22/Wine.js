@@ -231,7 +231,8 @@ function getAverages(){
   
   
   //same code is repeated
-  //this is because the variable names of arrays are different, therefore, I could not use a loop for this purpose. Although I could get the names of the different arrays by placing the strings in another array, i cannot use the strings to access a variable.
+  //this is because the variable names of arrays are different, therefore, I could not use a loop for this purpose.
+  //Although I could get the names of the different arrays by placing the strings in another array, i cannot use the strings to access a variable.
 
   sum = 0;
   for(let i = 0; i<bestVolatileAcidity.length; i++){
