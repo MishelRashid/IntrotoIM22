@@ -58,3 +58,7 @@ function addClouds() {
     clouds[i].display(); //displays the clouds
   }
 ```
+
+This is what I have so far:
+
+![gif](test.gif)
