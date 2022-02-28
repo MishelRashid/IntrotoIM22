@@ -12,11 +12,11 @@ This is the image of the dog with the background:
 
 I had to manually remove the background to make it fit and suit my game better. Here is the image of the dog without the background:
 
-![](dog.jpeg)
+![](dog.png)
 
 To add on, I wanted to use a background which would be moving, so I will start of by using clouds. Here is the image of the cloud:
 
-![](cloud.jpeg)
+![](cloud1.png)
 
 ## DIFFICULTY
 
