@@ -38,7 +38,7 @@ update() {
       addClouds();
     }
    ```
-   ##This resets the array so the clouds are removed. 
+   ### This resets the array so the clouds are removed. 
    
    ```
 function addClouds() {
@@ -49,7 +49,7 @@ function addClouds() {
     append(clouds, new Cloud(xCoord)); //add the new cloud to the array
   }
   ```
-##This is a loop, and it makes it look like the clouds are reappearing. 
+### This is a loop, and it makes it look like the clouds are reappearing. 
 
   ```
   //the following for loop displays the clouds
