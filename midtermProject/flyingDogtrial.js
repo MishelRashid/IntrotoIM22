@@ -1,3 +1,8 @@
+//Mishel Rashid
+//3/1/22
+//Midterm Project: Flying Dog
+
+
 let dogImg; //variable that will hold the image of the dog
 let bgImg; //variable that will hold the background image
 let cloudImg; //variable that will hold the image of the cloud
