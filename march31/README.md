@@ -24,3 +24,6 @@
 - as I kept opening the window and closing it all the way. 
 
 ![gif](march31.gif)
+
+
+![](picture.png)
