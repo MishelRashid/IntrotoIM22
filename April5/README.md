@@ -1,6 +1,17 @@
 # Plan / Process
 - For the analog switch, I used a photoresistor to control a LED. 
 - When the sensor detects that it is dark, the LED is turned on automatically. Likewise, when there is enough light, the light is turned off.
+- Achieved by establishing a "threshold" value below which the LED is turned on, otherwise off.
+
+````
+  analogValue = analogRead(SENSOR_PIN); //read the sensor value
+  if(analogValue < 50){ //if its below a threshold value, turn the led on
+    digitalWrite(LED_PIN,HIGH);
+  }
+  else{
+    digitalWrite(LED_PIN,LOW); //turn it back off once enough light is restored
+  }
+````
 - Here's the schematics:
 ![analog_schematics](https://user-images.githubusercontent.com/98512494/161666932-7c30601e-888b-401b-a34a-150229e2dda5.jpeg)
 
