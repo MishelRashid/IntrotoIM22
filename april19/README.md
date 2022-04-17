@@ -9,6 +9,6 @@ A short description: worked with Ayesha to complete 3 in-class exercises.
       <li>Light blinks when ball touches the ground.</li>
     </ul
       </li>
-      </ol>
+</ol>
     
-    4. 
+4. 
