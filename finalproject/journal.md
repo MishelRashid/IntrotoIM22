@@ -8,3 +8,7 @@
 - The second arduino will be attached to the remote control car and its component. It will be powered using batteries or a power bank.
 - The second arduino will decode the instructions sent by the user through p5js and the first arduino to make movements on the car.
 - The use of two arduinos is necessary as we need 1 to be connected to a laptop to take input from the user and a second one connected to the car's components.
+
+Link to my partners journal:
+
+https://github.com/aa7831/introToIM/blob/main/Final%20Project/journal.md
